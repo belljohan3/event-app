@@ -1,1 +1,1 @@
-# todo-list-fullstack
+# Event App Management
